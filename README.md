@@ -64,20 +64,49 @@ Gender Distribution Plot
 
 ---
 
-## 🚀 How to Run
+# 🔗 How to Run
 
-Clone the repository:
-git clone https://github.com/your-username/loan-prediction.git
+Follow the steps below to run this project on your system.
 
-Navigate to the project:
-cd loan-prediction
+---
 
-Install dependencies:
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/loan-approval-prediction.git
+```
+---
+
+## 2. Navigate to the Project Folder
+
+```bash
+cd loan-approval-prediction
+```
+---
+
+## 3. Install Required Libraries
+
+Make sure Python is installed on your system.
+
+Install all dependencies using:
+
+```bash
 pip install -r requirements.txt
+``` 
+---
 
-Run the notebook:
+## 4. Launch Jupyter Notebook
+
+```bash
 jupyter notebook
+```
 
+Open the notebook file:
+
+```text
+notebook/Loan Approval Prediction.ipynb
+```
+Run all cells sequentially to reproduce the analysis and visualizations.
 ---
 
 ## 🧠 Key Insights
