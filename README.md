@@ -107,6 +107,7 @@ Open the notebook file:
 notebook/Loan Approval Prediction.ipynb
 ```
 Run all cells sequentially to reproduce the analysis and visualizations.
+
 ---
 
 ## 🧠 Key Insights
