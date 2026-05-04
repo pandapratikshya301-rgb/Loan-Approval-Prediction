@@ -67,12 +67,15 @@ Gender Distribution Plot
 
 ## 🚀 How to Run
 
-1. Clone the repository:
+Clone the repository:
 git clone https://github.com/your-username/loan-prediction.git
+
 Navigate to the project:
 cd loan-prediction
+
 Install dependencies:
 pip install -r requirements.txt
+
 Run the notebook:
 jupyter notebook
 
