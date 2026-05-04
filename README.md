@@ -168,3 +168,9 @@ Loan-Approval-Prediction/
 
 ## 🔗 Author
 [Pratikshya Panda]
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
