@@ -12,7 +12,7 @@ This project aims to automate and improve this decision-making process using mac
 ---
 
 ## 📊 Dataset
-- Source: Kaggle
+- Source: https://www.kaggle.com/datasets/bhanupratapbiswas/loan-approval-prediction-case-study
 - Features include:
   - Applicant Income
   - Loan Amount
