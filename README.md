@@ -53,14 +53,16 @@ This project aims to automate and improve this decision-making process using mac
 - ROC-AUC
 
 ---
-##Visualization
----
+
+##📊Visualization
+
 Model Performance Comparison
 <img width="735" height="542" alt="Screenshot 2026-05-04 231014" src="https://github.com/user-attachments/assets/8057d4c2-8870-429e-a177-e858c5418629" />
 
 Gender Distribution Plot
 <img width="712" height="533" alt="Screenshot 2026-05-04 231202" src="https://github.com/user-attachments/assets/cd4999da-6041-4420-aa76-5b3e4b49a615" />
 
+---
 ## 🧠 Key Insights
 - Credit history is the strongest predictor
 - Income significantly influences loan approval
