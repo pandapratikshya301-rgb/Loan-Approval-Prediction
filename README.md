@@ -168,7 +168,7 @@ Loan-Approval-Prediction/
 
 ## 🔗 Author
 [Pratikshya Panda]
-B.Tech CSE Student|Data Science Enthusiast
+B.Tech CSE Student | Data Science Enthusiast
 
 ---
 
