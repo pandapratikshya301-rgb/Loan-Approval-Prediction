@@ -98,6 +98,7 @@ Random Forest performed best among all models due to its ability to handle non-l
 
 ---
 📁 Project Structure
+---
 
 Loan-Approval-Prediction/
 │
