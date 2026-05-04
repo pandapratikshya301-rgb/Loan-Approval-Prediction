@@ -64,6 +64,20 @@ Gender Distribution Plot
 <img width="712" height="533" alt="Screenshot 2026-05-04 231202" src="https://github.com/user-attachments/assets/cd4999da-6041-4420-aa76-5b3e4b49a615" />
 
 ---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+git clone https://github.com/your-username/loan-prediction.git
+Navigate to the project:
+cd loan-prediction
+Install dependencies:
+pip install -r requirements.txt
+Run the notebook:
+jupyter notebook
+
+---
+
 ## 🧠 Key Insights
 - Credit history is the strongest predictor
 - Income significantly influences loan approval
