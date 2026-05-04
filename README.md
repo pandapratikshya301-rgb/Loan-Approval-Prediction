@@ -97,13 +97,34 @@ Random Forest performed best among all models due to its ability to handle non-l
 - Higher threshold → safer decisions but fewer approvals
 
 ---
+📁 Project Structure
 
-## 📁 Project Structure
 Loan-Approval-Prediction/
 │
-├── Loan_Approval_Prediction.ipynb
-├── README.md
-└── images/
+├── data/
+│   ├── raw/
+│   │   └── loan_prediction.csv
+│   └── processed/
+│       └── cleaned_data.csv
+│
+├── notebooks/
+│   └── Loan_Approval_Prediction.ipynb
+│
+├── src/
+│   ├── preprocessing.py
+│   ├── model.py
+│   ├── train.py
+│   └── evaluate.py
+│
+├── models/
+│   └── model.pkl
+│
+├── images/
+│   ├── heatmap.png
+│   ├── distribution.png
+│
+├── requirements.txt
+└── README.md
 
 ---
 
